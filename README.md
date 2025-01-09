@@ -1,1 +1,1 @@
-=> "Link of published API documentation in postman" : https://documenter.getpostman.com/view/39189430/2sAYQUpZcT 
+=> "Link of LinkedIn's published API documentation in postman" : https://documenter.getpostman.com/view/39189430/2sAYQUpZcT 
